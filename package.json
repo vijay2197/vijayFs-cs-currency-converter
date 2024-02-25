@@ -1,0 +1,22 @@
+{
+  "name": "cs-currency-converter",
+  "version": "1.0.0",
+  "description": "An Npm package to convert converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay2197/vijayFs-cs-currency-converter.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "\"Vijay Kumar\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijay2197/vijayFs-cs-currency-converter/issues"
+  },
+  "homepage": "https://github.com/vijay2197/vijayFs-cs-currency-converter#readme"
+}
